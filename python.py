@@ -1,1 +1,1 @@
-print("This print should be only in fearure1 branch")
+print("This prnt should be only in fearure1 branch")
