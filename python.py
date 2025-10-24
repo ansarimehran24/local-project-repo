@@ -1,1 +1,2 @@
-print("This prnt should be only in fearure1 branch")
+a=int(input())
+print("Hi the number is",a)
