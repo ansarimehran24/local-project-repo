@@ -1,2 +1,1 @@
-a=int(input())
-print("Hi the number is",a)
+print("This should be deleted")
